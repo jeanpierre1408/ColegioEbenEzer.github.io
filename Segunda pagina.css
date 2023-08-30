@@ -364,6 +364,10 @@ header > h2::after {
 
 @media screen and (max-width: 767px) {
 
+  .first__section > article > div {
+    margin-buttom: 20pc;
+  }
+
   header {
     font-size: 12px;
   }

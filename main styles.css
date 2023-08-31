@@ -590,25 +590,29 @@ img {
     border-radius: 8px;
   }
 
-  .footer__icon {
-    margin-top: 10px;
-  }
-
   .footer__icon > svg {
     width: 5%;
-    height: 5%;
-  }
-
-  .footer1 > picture {
-    justify-content: center;
   }
 
   .icon__redes {
     margin-top: 2em;
   }
 
-  .footer__icon {
+  .footer1 > picture > img {
+    width: 8%;
+  }
+
+  .footer1 > picture {
     justify-content: center;
+    padding-bottom: 20px;
+  }
+
+  .footer1 {
+    height: 30vh;
+  }
+
+  .icon__redes {
+    margin-top: 2em;
   }
 
   .caption {

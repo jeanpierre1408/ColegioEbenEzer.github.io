@@ -331,7 +331,8 @@ ul {
 }
 
 .cards {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   font-size: 12px;
   margin-bottom: 20px;
 }
@@ -369,7 +370,8 @@ ul {
 }
 
 .cards2 {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   font-size: 12px;
   display: none;
 }

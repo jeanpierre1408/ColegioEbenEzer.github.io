@@ -482,35 +482,35 @@ img {
   transition: all 0.5s ease-out;
 }
 
-.footer1 {
-  margin-block: 20px;
-  margin-inline: 60px;
-}
+ .footer1 {
+            margin-block: 20px;
+            margin-inline: 60px;
+        }
 
-.footer1 > picture {
-  display: flex;
-  align-items: center;
-  color: #eb5b2d;
-}
+        .footer1>picture {
+            display: flex;
+            align-items: center;
+            color: #eb5b2d;
+        }
 
-.footer1 > picture > img {
-  width: 5%;
-  margin-right: 19px;
-}
+        .footer1>picture>img {
+            width: 5%;
+            margin-right: 19px;
+        }
 
-.footer__icon {
-  display: flex;
-  align-items: center;
-}
+        .footer__icon {
+            display: flex;
+            align-items: center;
+        }
 
-.footer__icon > svg {
-  width: 2%;
-  height: 2%;
-  opacity: 70%;
-  margin-right: 25px;
-  margin-left: 13px;
-  margin-top: 5px;
-}
+        .footer__icon>svg {
+            width: 2%;
+            height: 2%;
+            opacity: 70%;
+            margin-right: 25px;
+            margin-left: 13px;
+            margin-top: 5px;
+        }
 
 .icon__redes {
   display: flex;

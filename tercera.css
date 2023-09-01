@@ -539,6 +539,11 @@ ul {
 }
 
 @media screen and (max-width: 767px) {
+  .cards {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto; 
+    gap: 20px;
+  }
   .nav-bar {
     display: flex;
   }

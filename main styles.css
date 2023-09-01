@@ -564,6 +564,11 @@ img {
 }
 
 @media screen and (max-width: 767px) {
+
+  .first__section > a {
+    padding-block:5px;
+  }
+  
   .nav__bar__pc {
     display: none;
   }

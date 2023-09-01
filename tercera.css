@@ -331,7 +331,7 @@ ul {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   font-size: 12px;
   margin-bottom: 20px;
 }

@@ -315,7 +315,7 @@ ul {
 }
 
 .second__section {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -539,6 +539,10 @@ ul {
 }
 
 @media screen and (max-width: 767px) {
+  .second__section {
+  width: 100%;
+  }
+  
   .nav-bar {
     display: flex;
   }

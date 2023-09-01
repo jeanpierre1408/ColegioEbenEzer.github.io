@@ -114,6 +114,7 @@ html {
   display: none;
   align-items: center;
   justify-content: space-around;
+  padding-block: 15px;
 }
 
 .nav-bar > p > a {
